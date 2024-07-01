@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+     
+     <node type="goal_listener" name="goal_listener" pkg="goal" output="screen"/>
+</launch>
