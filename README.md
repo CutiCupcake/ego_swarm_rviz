@@ -1,6 +1,8 @@
 **Overview**
 
 This project utilizes odometry information and listens to remote controller signals to dynamically update the goal points in RVIZ. The FSM (Finite State Machine) controls the program mode and uses the Ego-planner algorithm to guide the drone for obstacle avoidance navigation. The project requires you to customize your own ego_swarm algorithm.
+
+
 Relative Video:https://youtu.be/cB2DgIYcgro
 
 **Features**
