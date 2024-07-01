@@ -13,5 +13,7 @@ This project utilizes odometry information and listens to remote controller sign
 **Requirements**
 
 1.Ego-planner Algorithm: Integrate and customize the Ego-planner algorithm for obstacle avoidance and navigation.
+
 2.MavROS: Ensure MavROS is correctly set up to receive and send remote control signals.
+
 3.RVIZ: Utilize RVIZ for visualization of the goal points and drone navigation path.
