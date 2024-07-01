@@ -5,7 +5,9 @@ This project utilizes odometry information and listens to remote controller sign
 **Features**
 
 1.Goal Program Design: Implemented a program to set and update goal points in RVIZ based on received signals.
+
 2.Odometry and MavROS RC Message Listening: Listens to odometry data and remote control signals from MavROS.
+
 3.Data Processing and Publishing: Processes the received data and publishes the updated goal points to RVIZ.
 
 **Requirements**
