@@ -5,6 +5,11 @@ This project utilizes odometry information and listens to remote controller sign
 
 Relative experiments video shown in:https://youtu.be/cB2DgIYcgro
 
+https://youtu.be/HU8LMn0RQXs
+
+![image](https://github.com/CutiCupcake/ego_swarm_rviz/assets/113587573/b6afb467-9ebe-4824-b6f2-d4761dc25ec6)
+
+
 **Features**
 
 1.Goal Program Design: Implemented a program to set and update goal points in RVIZ based on received signals.
