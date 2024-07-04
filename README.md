@@ -9,6 +9,9 @@ https://youtu.be/HU8LMn0RQXs
 
 ![image](https://github.com/CutiCupcake/ego_swarm_rviz/assets/113587573/b6afb467-9ebe-4824-b6f2-d4761dc25ec6)
 
+![image](https://github.com/CutiCupcake/ego_swarm_rviz/assets/113587573/f33cbfef-3981-4c29-9035-a8d7ed46bb02)
+
+
 
 **Features**
 
